@@ -1,0 +1,30 @@
+{
+  "name": "context-api-next13",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@hookform/resolvers": "^2.9.11",
+    "@next/font": "13.1.6",
+    "bootstrap": "^5.2.3",
+    "eslint": "8.34.0",
+    "eslint-config-next": "13.1.6",
+    "next": "13.1.6",
+    "node-sass": "^7.0.3",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "react-hook-form": "^7.43.2",
+    "react-icons": "^4.7.1",
+    "yup": "^1.0.0"
+  },
+  "devDependencies": {
+    "sass": "^1.58.3",
+    "sass-loader": "^13.2.0",
+    "webpack": "^5.75.0"
+  }
+}
